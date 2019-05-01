@@ -1,0 +1,2 @@
+# Backpropogation-implementation
+透過Python的sklearn函式庫來實作倒傳遞類神經網路分類器
